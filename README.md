@@ -1,6 +1,8 @@
 
 # Calculadora GUI com PySide6 🖥️🧮
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Projeto de uma calculadora com interface gráfica desenvolvida em Python, utilizando a biblioteca PySide6 (Qt para Python). A aplicação oferece operações matemáticas básicas, interface responsiva e tratamento de erros.
 
 ---
@@ -72,7 +74,6 @@ python main.py
 ## Licença 📄
 
 Este projeto está licenciado sob a **MIT License**.  
-Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
