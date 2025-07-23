@@ -1,22 +1,22 @@
 
-# Calculadora GUI com PySide6
+# Calculadora GUI com PySide6 🖥️🧮
 
 Projeto de uma calculadora com interface gráfica desenvolvida em Python, utilizando a biblioteca PySide6 (Qt para Python). A aplicação oferece operações matemáticas básicas, interface responsiva e tratamento de erros.
 
 ---
 
-## Funcionalidades Principais
+## Funcionalidades Principais ✨
 
 - Interface gráfica moderna com PySide6
 - Campo de exibição interativo para entrada de números e operadores
 - Exibição de informações e expressões em construção
 - Botões funcionais para operações aritméticas, potência, inversão de sinal, limpar e apagar
-- Tratamento de erros (divisão por zero, overflow) com mensagens de alerta
-- Uso de sinais e slots para interação entre componentes
+- Tratamento de erros (divisão por zero, overflow) com mensagens de alerta ⚠️
+- Uso de sinais e slots para interação entre componentes 🔄
 
 ---
 
-## Estrutura do Projeto
+## Estrutura do Projeto 📂
 
 ```
 calculadora/
@@ -32,7 +32,7 @@ calculadora/
 
 ---
 
-## Como Executar
+## Como Executar 🚀
 
 1. Clone o repositório:
 
@@ -45,7 +45,7 @@ git clone https://github.com/deboracmg/calculadora.git
 ```bash
 python -m venv venv
 source venv/bin/activate     # Linux/Mac
-venv\Scripts\activate.bat    # Windows
+venv\Scripts\activate.bat  # Windows
 ```
 
 3. Instale a dependência necessária:
@@ -62,13 +62,20 @@ python main.py
 
 ---
 
-## Tecnologias
+## Tecnologias 🛠️
 
 - Python 3.7+
 - PySide6 (Qt para Python)
 
 ---
 
-## Contato
+## Licença 📄
 
-Desenvolvido por [@deboracmg](https://github.com/deboracmg)
+Este projeto está licenciado sob a **MIT License**.  
+Veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+
+
+
+Desenvolvido por [@deboracmg](https://github.com/deboracmg)  
